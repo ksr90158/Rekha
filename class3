@@ -1,0 +1,8 @@
+Class Class3{
+public int x;
+public int y;
+public int Add(int a,int b)
+{
+reurn a+b
+}
+}
