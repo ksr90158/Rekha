@@ -3,6 +3,7 @@ public int x;
 public int y;
 public int Add(int a,int b)
 {
+hi hello
 reurn a+b
 hello
 }
